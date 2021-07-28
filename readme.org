@@ -1,0 +1,19 @@
+* WIP minyez.space
+
+The source files of my new personal website.
+The [[https://shigaro.org][old site]] (source [[https://github.com/minyez/minyez.github.io/tree/hexo][here]]) was built with Hexo,
+and I cannot update it due to my broken npm dependencies.
+Since I am now using emacs with org-mode and org-roam for taking notes and writing,
+I decide to try out Hugo as the static website generator
+with the help of ox-hugo exporter to convert org-mode files to markdown.
+
+Things to do:
+
+- [ ] file extraction from my private org-roam repo
+- [ ] choose a multi-lingual theme
+- [ ] workflow (run emacs batch, hugo, etc) to build site by git push
+
+* License
+
+MIT Copyright (c) 2021 Minye Zhang
+
