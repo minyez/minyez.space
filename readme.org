@@ -9,9 +9,14 @@ with the help of ox-hugo exporter to convert org-mode files to markdown.
 
 Things to do:
 
-- [ ] file extraction from my private org-roam repo
-- [ ] choose a multi-lingual theme
-- [ ] workflow (run emacs batch, hugo, etc) to build site by git push
+- choose/customize a theme
+  - scrollable sidebar TOC 
+  - multi-lingual support
+  - Disqus support for comments
+  - no/minimal framework dependencies
+  - MathJax support for latex input
+- file extraction from my private org-roam repo
+- workflow (run emacs batch, hugo, etc) to build site by git push
 
 * License
 

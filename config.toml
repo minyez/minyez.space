@@ -1,0 +1,23 @@
+# Common setting
+baseURL = "http://example.org/"
+
+defaultContentLanguage = "en"
+
+title = "minyez.space"
+#theme = "hello-friend-ng"
+theme = "fuji"
+
+footnoteReturnLinkContents = "↩"
+
+# use content directories for content translation
+[languages]
+  [languages.en]
+    contentDir = "content/en"
+    weight = 1
+  [languages.zh-hans]
+    contentDir = "content/cn"
+    weight = 2
+  [languages.ja]
+    contentDir = "content/ja"
+    weight = 2
+
