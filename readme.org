@@ -11,10 +11,11 @@ Things to do:
 
 - choose/customize a theme
   - scrollable sidebar TOC 
-  - multi-lingual support
+  - multi-lingual support (?)
   - Disqus support for comments
+  - MathJax/KaTeX support for LaTeX input
+  - light/dark theme switch
   - no/minimal framework dependencies
-  - MathJax support for latex input
 - file extraction from my private org-roam repo
 - workflow (run emacs batch, hugo, etc) to build site by git push
 

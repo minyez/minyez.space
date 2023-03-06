@@ -1,11 +1,10 @@
 # Common setting
-baseURL = "http://example.org/"
+baseURL = "http://minyez.space/"
 
 defaultContentLanguage = "en"
 
 title = "minyez.space"
-#theme = "hello-friend-ng"
-theme = "fuji"
+theme = "yinyang"
 
 footnoteReturnLinkContents = "↩"
 
@@ -14,10 +13,6 @@ footnoteReturnLinkContents = "↩"
   [languages.en]
     contentDir = "content/en"
     weight = 1
-  [languages.zh-hans]
+  [languages.cn]
     contentDir = "content/cn"
-    weight = 2
-  [languages.ja]
-    contentDir = "content/ja"
-    weight = 2
-
+    weight = 1
